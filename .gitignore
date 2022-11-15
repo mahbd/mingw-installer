@@ -1,3 +1,7 @@
 venv
 .vscode
 __pycache__
+mingw64.zip
+build
+dist
+mingw.spec
